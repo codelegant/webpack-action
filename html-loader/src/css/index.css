@@ -1,0 +1,6 @@
+.pic-2{
+  background: url('/src/img/2.jpg') no-repeat;
+  width:160px;
+  height: 90px;
+  background-size:160px 90px;
+}
